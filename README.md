@@ -1,4 +1,4 @@
-# A NEW WAY TO CALCULATE THERMAL SUMMATION CONSTANTS FOR FORENSICALLY USEFUL INSECTS USING FUZZY REGRESSION
+# A new way to calculate thermal summation constants for forensically useful insects using fuzzy regression
 
 #### authors: Jędrzej Wydra, Szymon Matuszewski
 
