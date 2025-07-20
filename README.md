@@ -3,10 +3,10 @@
 #### authors: Jędrzej Wydra, Szymon Matuszewski
 
 ## Short summary  
-Created a scientific poster in LaTeX presenting a novel fuzzy regression approach to improve thermal summation parameter estimation for forensically useful insects.  
+Applied fuzzy regression modeling and interval-based estimation to improve parameter stability in non-linear data-driven models.
 
 ## Technical summary  
-Developed a scientific poster in LaTeX that introduced a fuzzy regression method for deriving thermal summation parameters in forensic entomology, reducing estimation errors compared to conventional models. The project demonstrated an advanced mathematical approach to improve time of development calculations for insect evidence and was presented at the European Association for Forensic Entomology 2022.  
+Implemented fuzzy regression techniques to derive interval estimates for thermal summation parameters, replacing standard linear approximations. Evaluated model uncertainty by comparing fuzzy-based intervals with conventional regression outputs and visualized performance differences. Built reproducible workflows for interval regression analysis and uncertainty quantification.
 
 ## History
 This project had a rocky start, but it ultimately turned into a valuable experience that I’m proud of. The initial concepts, while they didn’t pan out as planned, gave me the opportunity to dive deep into fuzzy regression — a challenging but rewarding area of study. Although those early ideas were eventually set aside, they laid the groundwork for the next iteration, which will be published soon. This version leverages advanced methods like finite mixture models, the EM algorithm, and even MCMC algorithms during testing.
